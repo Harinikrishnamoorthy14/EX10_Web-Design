@@ -20,6 +20,13 @@
 
 ## OUTPUT
 
+![Screenshot (71)](https://github.com/SrivarshanGurumoorthy/EX10_Web-Design/assets/127816583/1b21f0b3-4854-4fc3-a3e2-231e6e43b965)
+
+![Screenshot (72)](https://github.com/SrivarshanGurumoorthy/EX10_Web-Design/assets/127816583/178b9166-e837-4a0e-95f4-ed87b029c2cc)
+
+![Screenshot (73)](https://github.com/SrivarshanGurumoorthy/EX10_Web-Design/assets/127816583/5b9522b1-b4c3-42b4-9729-73b3fceb1ffe)
+
+
 
 ## RESULT
   A web page for an Agricultural Agency is designed using WordPress.
